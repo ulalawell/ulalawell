@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m @ulalawell
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web
 - 📫 How to reach me: linkedin
 
 <!---
