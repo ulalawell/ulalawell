@@ -1,6 +1,6 @@
 ## Creative thinker.
 - 👋 Hi, I’m @ulalawell
-- 👀 I’m interested in programming
+- 👀 I’m interested in backend
 - 📫 How to reach me: https://www.linkedin.com/in/roma-usik/
 
 <!---
